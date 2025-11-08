@@ -55,4 +55,6 @@ You can find the architecture and implementation details in this file(MRI): [20-
 > Combines KAN non-linear mixing with SE attention gating before residual addition.
 
 
-> **Note:** These are personal experiments, so I cannot guarantee their correctness.
+> **Note:** These are personal experiments, so I cannot guarantee their correctness.  
+> If you find any issues, have suggestions or want to contribute, feel free to open an issue or submit a pull request.
+
