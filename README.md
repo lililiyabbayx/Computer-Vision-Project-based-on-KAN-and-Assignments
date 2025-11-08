@@ -1,9 +1,9 @@
 # CSE463 Project
 
-This repository contains my personal experiments on the "Lung & Colon Cancer Dataset" and the "Brain Tumor MRI Dataset" using different hybrid architectures, including CNN, KAN, MLP, ConvNeXt-V2, SE blocks, etc., for comparative analysis.
+This repository contains my personal experiments on the "Lung & Colon Cancer Dataset-unstable dataset" and the "Brain Tumor MRI Dataset" using different hybrid architectures, including CNN, KAN, MLP, ConvNeXt-V2, SE blocks, etc., for comparative analysis.
 
 **Short Architecture Description:**  
-You can find the architecture and implementation details in this file: [20-10 ConvNeXt-V2 KAN Notebook](https://github.com/lililiyabbayx/Computer-Vision-Project-based-on-KAN-and-Assignments/blob/main/20-10convnext-v2-kan-100ep.ipynb)  
+You can find the architecture and implementation details in this file(MRI): [20-10 ConvNeXt-V2 KAN Notebook](https://github.com/lililiyabbayx/Computer-Vision-Project-based-on-KAN-and-Assignments/blob/main/20-10convnext-v2-kan-100ep.ipynb)  
 *Description: Here, I will provide a summary of the architecture and key points from the notebook.*
 ## Architecture Overview
 
